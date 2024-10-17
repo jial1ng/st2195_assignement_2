@@ -1,0 +1,1 @@
+This repository contains the solution for the ST2195 practice assignment 2, for which we web scrape CSV example on cars using R code and Python.
